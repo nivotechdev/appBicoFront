@@ -23,3 +23,9 @@ The design medium is **HTML/CSS/JS** — these are prototypes, not production co
 - `README.md` — this file
 - `chats/` — conversation transcripts (read these!)
 - `project/` — the `Formulário de requisitos de candidatos` project files (HTML prototypes, assets, components)
+
+## Abrir o app
+
+- **Direto no navegador (dois cliques):** `index.html` na raiz — o app completo num arquivo só (mesmo que `web/preview/index.html`).
+- **Desenvolvimento:** `cd web && npm install && npm run dev` (o `web/index.html` é o fonte do Vite e só funciona assim).
+- **App antigo (referência):** `app/index.html` ou `app/artifact.html`.
